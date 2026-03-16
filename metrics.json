@@ -1,0 +1,7 @@
+{
+    "Model_Name": "XGBoost (Optuna Tuned)",
+    "R2_Score": 0.8150005148171899,
+    "RMSE": 1.4461049478794474,
+    "MAE": 1.0988747629862488,
+    "Total_Urban_Grids": 1274
+}
